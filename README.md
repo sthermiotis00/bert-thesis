@@ -35,10 +35,8 @@ The project evaluates the performance of Transformer-based models in detecting c
 2. **Install required packages:**
     ```bash
    pip install torch transformers pytorch-lightning torchmetrics pandas numpy
-4. **Run the Notebook:**
+3. **Run the Notebook:**
     ```bash
-   Train_bert_original.ipynb
-  **To train the model from scratch.And run the Notebook:**
+   Train_bert_original.ipynb .To train the model from scratch.
   ```bash
-   Eval_bert_model.ipynb.
-**To run inference and view results.**
+   Eval_bert_model.ipynb.To run inference and view results.
