@@ -1,6 +1,6 @@
 # Comparative Study of Deep Learning Algorithms for Sentiment Analysis
 
-This repository contains the research and implementation of a multi-label sentiment analysis system using **BERT** and **Ensemble learning** techniques. This project was developed as part of a BSc thesis at the **University of Piraeus**, Department of Informatics.
+This repository contains the research and implementation of a multi-label sentiment analysis system using **BERT** and **Ensemble learning** techniques.
 
 ## Overview
 The project evaluates the performance of Transformer-based models in detecting complex human emotions. By utilizing the **GoEmotions** dataset and fine-tuning a **BERT-base-uncased** architecture, the system classifies text into 28 distinct emotional categories.
@@ -33,7 +33,9 @@ The project evaluates the performance of Transformer-based models in detecting c
    ```bash
    git clone (https://github.com/sthermiotis00/bert-thesis)
 2. **Install required packages:
+    ```bash
    pip install torch transformers pytorch-lightning torchmetrics pandas numpy
-3. **Run the Notebooks:
+4. **Run the Notebooks:
+    ```bash
    Execute Train_bert_original.ipynb to train the model from scratch.
    Execute Eval_bert_model.ipynb to run inference and view results.
