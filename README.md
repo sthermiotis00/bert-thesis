@@ -39,5 +39,5 @@ The project evaluates the performance of Transformer-based models in detecting c
     ```bash
    Train_bert_original.ipynb .To train the model from scratch.
 
-```bash
+  ```bash
     Eval_bert_model.ipynb.To run inference and view results.
