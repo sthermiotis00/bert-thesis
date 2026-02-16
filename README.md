@@ -38,4 +38,4 @@ The project evaluates the performance of Transformer-based models in detecting c
 3. **Run the Notebook:**
     ```bash
    Train_bert_original.ipynb .To train the model from scratch.
-   Eval_bert_model.ipynb.To run inference and view results.
+    Eval_bert_model.ipynb.To run inference and view results.
