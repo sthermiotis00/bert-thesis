@@ -32,10 +32,10 @@ The project evaluates the performance of Transformer-based models in detecting c
 1. **Clone the repository:**
    ```bash
    git clone (https://github.com/sthermiotis00/bert-thesis)
-2. **Install required packages:
+2. **Install required packages:**
     ```bash
    pip install torch transformers pytorch-lightning torchmetrics pandas numpy
-4. **Run the Notebooks:
+4. **Run the Notebooks:**
     ```bash
    Execute Train_bert_original.ipynb to train the model from scratch.
    Execute Eval_bert_model.ipynb to run inference and view results.
